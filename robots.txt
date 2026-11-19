@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jip223.github.io/lock-facts-fl/sitemap.xml
